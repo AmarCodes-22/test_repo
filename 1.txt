@@ -1,2 +1,2 @@
-"Created in master"
+"Changed line 1 in master"
 "Added line in master" 
