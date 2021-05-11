@@ -1,4 +1,1 @@
-"Changed line 1 in master"
-"Added line in master" 
-
-
+"commiting for seeing change in status output" 
