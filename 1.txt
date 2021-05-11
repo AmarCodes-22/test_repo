@@ -1,2 +1,2 @@
 "Created in master"
-"Added line in master" 
+"Changed in new_feature" 
